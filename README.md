@@ -107,5 +107,7 @@ Minimum required version: `v3.1.0`
 ```
 openethereum --chain kotti.json
 ```
+download the above mentioned kotti.json from this repo and place it next to the extracted binaries see below
+
 - https://github.com/openethereum/openethereum/releases/tag/v3.1.0
 
