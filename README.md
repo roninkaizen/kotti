@@ -100,7 +100,7 @@ openetc --chain kotti
 ```
 - https://github.com/openetc/openetc/releases
 
-### OpenEthereum (highly experimental!)-(formerly Open Ethereum, Parity Ethereum)
+### OpenEthereum (experimental!)-(formerly Open Ethereum, Parity Ethereum)
 
 Minimum required version: `v3.1.0`
 
