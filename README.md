@@ -99,3 +99,13 @@ Minimum required version: `v3.0.1`
 openetc --chain kotti
 ```
 - https://github.com/openetc/openetc/releases
+
+### OpenEthereum (highly experimental!)-(formerly Open Ethereum, Parity Ethereum)
+
+Minimum required version: `v3.1.0`
+
+```
+openethereum --chain kotti.json
+```
+- https://github.com/openethereum/openethereum/releases/tag/v3.1.0
+
